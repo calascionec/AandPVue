@@ -1,0 +1,23 @@
+{
+  "maple-road": {
+    "title": "Maple Road",
+    "heroImage": "/",
+    "description": "This is where the main description will go",
+    "storageOptionsTitle": "Storage Options Title",
+    "storageOptions": [
+      {
+        "title": "Triple Dresser",
+        "subtitle": "subtitle",
+        "dimensions": "this is where the dimensions will go"
+      }
+    ],
+    "finishChoices": [
+      {
+        "title": "title",
+        "number": "number",
+        "image": "image url"
+      }
+    ],
+    "galleryImage": "gallery-image url"
+  }
+}
