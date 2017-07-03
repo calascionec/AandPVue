@@ -2,7 +2,7 @@ import Vue from 'vue';
 import Router from 'vue-router';
 import Hello from '@/components/Hello';
 import Collections from '@/components/Collections';
-import Collection from '@/components/Collection';
+import Collection from '@/components/Collection/Collection';
 import Financing from '@/components/Financing';
 import WhereToBuy from '@/components/WhereToBuy';
 import Contact from '@/components/Contact';
